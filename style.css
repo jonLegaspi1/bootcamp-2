@@ -1,0 +1,26 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+h1 span.glyphicon-folder-open{
+    font-size: 0.7em;
+    vertical-align: -10px;
+}
+table {
+    border: 1px solid black;
+}
+h1 {
+	text-align:center;
+	color: orange;
+	background-color: blue;
+	word-spacing:10px;
+	height: 90px;
+	font-weight: bold;
+	font-size: 80px;
+	font-family: courier;	
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
